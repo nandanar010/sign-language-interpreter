@@ -1,0 +1,8 @@
+sign-env/
+__pycache__/
+*.pyc
+*.mp4
+*.tflite
+*.pkl
+*.zip
+*.log
